@@ -1,0 +1,27 @@
+.card{
+  height:520px;
+  width: 350px;
+}
+
+.month{
+  font-size: 0.8rem;
+}
+.card:hover {
+  margin-top: -.23rem;
+  margin-bottom: .23rem;
+  box-shadow: 0 0.5rem 1rem 0 rgba(249, 241, 241, 0.3);
+}
+
+.btn{
+  border-radius: 75px;
+  padding:20px;
+}
+.App{
+  background: #00ff0d;
+  position: absolute;
+  min-width:100%;
+}
+.content{
+  margin-bottom: 18px;
+}
+
